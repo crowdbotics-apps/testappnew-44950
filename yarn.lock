@@ -1528,6 +1528,9 @@
 "@modules/payments@file:./modules/payments":
   version "1.0.1"
 
+"@modules/splash@file:./modules/splash":
+  version "1.0.0"
+
 "@modules/splash@file:./modules/splash/":
   version "1.0.0"
 
